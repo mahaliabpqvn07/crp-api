@@ -61,7 +61,7 @@ curl -H "X-API-Key: YOUR_SECRET_API_KEY" \
   http://127.0.0.1:1980/market/pairs
 ```
 
-Open TCP port 8080 in the VPS/provider firewall if it must be reachable from
+Open TCP port 1980 in the VPS/provider firewall if it must be reachable from
 the Internet.
 
 ## Security
